@@ -18,6 +18,7 @@ daily progress
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -31,6 +32,7 @@ daily progress
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
