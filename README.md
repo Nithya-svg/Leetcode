@@ -30,6 +30,7 @@ daily progress
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nithya-svg/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Nithya-svg/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithya-svg/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -48,6 +49,7 @@ daily progress
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Nithya-svg/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +98,8 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Nithya-svg/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
