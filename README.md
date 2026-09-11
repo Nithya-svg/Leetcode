@@ -38,6 +38,7 @@ daily progress
 | [1288-remove-covered-intervals](https://github.com/Nithya-svg/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ daily progress
 | [0209-minimum-size-subarray-sum](https://github.com/Nithya-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ daily progress
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithya-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
