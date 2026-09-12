@@ -28,6 +28,7 @@ daily progress
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithya-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nithya-svg/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -102,6 +103,7 @@ daily progress
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithya-svg/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithya-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -113,6 +115,7 @@ daily progress
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
