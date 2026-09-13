@@ -24,6 +24,7 @@ daily progress
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nithya-svg/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0041-first-missing-positive](https://github.com/Nithya-svg/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -106,6 +107,7 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithya-svg/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/Nithya-svg/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
