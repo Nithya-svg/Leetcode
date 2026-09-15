@@ -28,6 +28,7 @@ daily progress
 | [0027-remove-element](https://github.com/Nithya-svg/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Nithya-svg/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/Nithya-svg/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -56,6 +57,7 @@ daily progress
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Nithya-svg/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Two Pointers
@@ -162,4 +164,8 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nithya-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Nithya-svg/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
