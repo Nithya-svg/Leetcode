@@ -28,6 +28,7 @@ daily progress
 | [0027-remove-element](https://github.com/Nithya-svg/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Nithya-svg/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -55,6 +56,7 @@ daily progress
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ daily progress
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithya-svg/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Nithya-svg/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
