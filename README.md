@@ -11,6 +11,7 @@ daily progress
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithya-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Nithya-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Nithya-svg/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -37,6 +38,7 @@ daily progress
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithya-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nithya-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -64,6 +66,7 @@ daily progress
 | [0059-spiral-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +180,8 @@ daily progress
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
