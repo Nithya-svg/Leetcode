@@ -45,6 +45,7 @@ daily progress
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nithya-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -104,6 +105,7 @@ daily progress
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -154,6 +156,7 @@ daily progress
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Nithya-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -198,6 +201,7 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +210,8 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Nithya-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 <!---LeetCode Topics End-->
