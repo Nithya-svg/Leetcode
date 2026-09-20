@@ -72,6 +72,7 @@ daily progress
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +250,7 @@ daily progress
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
