@@ -74,6 +74,7 @@ daily progress
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Matrix
@@ -127,6 +128,7 @@ daily progress
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/Nithya-svg/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ daily progress
 | [0846-hand-of-straights](https://github.com/Nithya-svg/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithya-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -180,6 +183,7 @@ daily progress
 | [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -199,6 +203,7 @@ daily progress
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Nithya-svg/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
