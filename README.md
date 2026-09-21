@@ -55,6 +55,7 @@ daily progress
 | [0496-next-greater-element-i](https://github.com/Nithya-svg/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nithya-svg/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -108,6 +109,7 @@ daily progress
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithya-svg/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nithya-svg/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -155,6 +157,7 @@ daily progress
 | [0496-next-greater-element-i](https://github.com/Nithya-svg/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithya-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -162,6 +165,7 @@ daily progress
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -172,6 +176,7 @@ daily progress
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Nithya-svg/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -258,9 +263,18 @@ daily progress
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
