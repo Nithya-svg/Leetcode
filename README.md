@@ -54,6 +54,7 @@ daily progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nithya-svg/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -120,6 +121,7 @@ daily progress
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -160,6 +162,7 @@ daily progress
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nithya-svg/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Nithya-svg/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -171,6 +174,7 @@ daily progress
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -182,6 +186,7 @@ daily progress
 | [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/Nithya-svg/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -272,6 +277,7 @@ daily progress
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Nithya-svg/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Nithya-svg/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
