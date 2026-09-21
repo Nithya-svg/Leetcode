@@ -111,6 +111,7 @@ daily progress
 | [0680-valid-palindrome-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithya-svg/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nithya-svg/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Greedy
@@ -120,6 +121,7 @@ daily progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ daily progress
 | [0904-fruit-into-baskets](https://github.com/Nithya-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@ daily progress
 | [0977-squares-of-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Nithya-svg/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nithya-svg/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
