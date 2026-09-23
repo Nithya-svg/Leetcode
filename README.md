@@ -85,6 +85,7 @@ daily progress
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya-svg/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ daily progress
 | [0881-boats-to-save-people](https://github.com/Nithya-svg/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Nithya-svg/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nithya-svg/Leetcode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya-svg/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
