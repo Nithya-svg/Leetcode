@@ -21,6 +21,7 @@ daily progress
 | [0875-koko-eating-bananas](https://github.com/Nithya-svg/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithya-svg/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ daily progress
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithya-svg/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Nithya-svg/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -98,6 +100,7 @@ daily progress
 | [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithya-svg/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +176,7 @@ daily progress
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
