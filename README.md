@@ -86,6 +86,7 @@ daily progress
 | [1590-make-sum-divisible-by-p](https://github.com/Nithya-svg/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya-svg/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/Nithya-svg/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Nithya-svg/Leetcode/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ daily progress
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithya-svg/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithya-svg/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nithya-svg/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/Nithya-svg/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nithya-svg/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
