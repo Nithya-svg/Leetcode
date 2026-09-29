@@ -50,6 +50,7 @@ daily progress
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithya-svg/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Nithya-svg/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithya-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nithya-svg/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -193,6 +194,7 @@ daily progress
 | [0049-group-anagrams](https://github.com/Nithya-svg/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Nithya-svg/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Nithya-svg/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nithya-svg/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -343,4 +345,8 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nithya-svg/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nithya-svg/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
