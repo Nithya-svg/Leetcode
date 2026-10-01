@@ -59,6 +59,7 @@ daily progress
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithya-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nithya-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Nithya-svg/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nithya-svg/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -178,6 +179,7 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithya-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Nithya-svg/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -349,4 +351,8 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nithya-svg/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nithya-svg/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
