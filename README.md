@@ -24,11 +24,13 @@ daily progress
 | [0875-koko-eating-bananas](https://github.com/Nithya-svg/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithya-svg/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Nithya-svg/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Nithya-svg/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/Nithya-svg/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ daily progress
 | [0986-interval-list-intersections](https://github.com/Nithya-svg/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithya-svg/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Nithya-svg/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Nithya-svg/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nithya-svg/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nithya-svg/Leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -375,4 +378,8 @@ daily progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nithya-svg/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Nithya-svg/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
