@@ -19,6 +19,7 @@ daily progress
 | [0540-single-element-in-a-sorted-array](https://github.com/Nithya-svg/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Nithya-svg/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nithya-svg/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Nithya-svg/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithya-svg/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -77,6 +78,7 @@ daily progress
 | [0713-subarray-product-less-than-k](https://github.com/Nithya-svg/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nithya-svg/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Nithya-svg/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nithya-svg/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0846-hand-of-straights](https://github.com/Nithya-svg/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Nithya-svg/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Nithya-svg/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
