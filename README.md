@@ -397,8 +397,13 @@ daily progress
 | [0141-linked-list-cycle](https://github.com/Nithya-svg/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nithya-svg/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Nithya-svg/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Nithya-svg/Leetcode/tree/main/0148-sort-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Nithya-svg/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
