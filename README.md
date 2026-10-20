@@ -223,6 +223,7 @@ daily progress
 | [0128-longest-consecutive-sequence](https://github.com/Nithya-svg/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nithya-svg/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Nithya-svg/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya-svg/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithya-svg/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nithya-svg/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -391,6 +392,7 @@ daily progress
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Nithya-svg/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nithya-svg/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -405,6 +407,7 @@ daily progress
 | [0141-linked-list-cycle](https://github.com/Nithya-svg/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithya-svg/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Nithya-svg/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Nithya-svg/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Nithya-svg/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nithya-svg/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithya-svg/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -419,4 +422,8 @@ daily progress
 | [0143-reorder-list](https://github.com/Nithya-svg/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nithya-svg/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithya-svg/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Nithya-svg/Leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
